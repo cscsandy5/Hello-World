@@ -13,5 +13,6 @@
 <!-- >>>>>>> master -->
     <span>checking the git username in atom</span>
     <span>time 1</span>
+    <p>this time checking email</p>
   </body>
 </html>
