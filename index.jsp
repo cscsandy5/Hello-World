@@ -12,5 +12,6 @@
     <p>changes with clone-2 branch</p>
 <!-- >>>>>>> master -->
     <span>checking the git username in atom</span>
+    <span>time 1</span>
   </body>
 </html>
